@@ -27,7 +27,8 @@ Atx-style headers use 1-6 hash characters at the start of the line, correspondin
 ```
 
 
-En option, vous pouvez " fermer " têtes atx style . Ceci est purement cosmétique - vous pouvez utiliser cette option si vous pensez qu'il est plus beau . Les tables de hachage de clôture ne sont même pas besoin de faire correspondre le nombre de tables de hachage utilisées pour ouvrir l'en-tête . ( Le nombre de tables de hachage d'ouverture détermine le niveau d'en-tête . ) :
+Optionally, you may “close” atx-style headers. This is purely cosmetic — you can use this if you think it looks better. The closing hashes don’t even need to match the number of hashes used to open the header. (The number of opening hashes determines the header level.) :
+
 ```
 # This is an H1 #
 
